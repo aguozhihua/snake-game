@@ -1,10 +1,16 @@
 # 🐍 Snake Game (HTML5)
 
-A classic Snake game implementation in a single HTML file. Simple, lightweight, and mobile-friendly.
+[![Play Online](https://img.shields.io/badge/Play-Online-success?style=for-the-badge&logo=github)](https://aguozhihua.github.io/snake-game/)
 
-## 🎮 How to Play
+A classic Snake game implementation with a **Cyberpunk AI** aesthetic.
 
-### Desktop
+## 🎮 Play Now
+
+👉 **[Click here to play!](https://aguozhihua.github.io/snake-game/)**
+
+## ✨ Features
+
+- **Cyberpunk Visuals**: Neon glow, particle explosions, and dynamic grid.
 - **Arrow Keys** (⬆️ ⬇️ ⬅️ ➡️) to control the snake.
 
 ### Mobile
